@@ -18,11 +18,6 @@ html{
     animation: body 5s infinite;
 }
 
-@media screen and (max-width:400px){
-  body{
-    background-attachment: fixed;
-  }
-
 .logo{
     background-color: white;
 }
